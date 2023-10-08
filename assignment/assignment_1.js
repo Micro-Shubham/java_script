@@ -5,3 +5,6 @@ let c = 3
 console.log(a)
 console.log(b)
 console.log(c)
+//change the value of a to 3.
+a = 3
+console.log(a)
